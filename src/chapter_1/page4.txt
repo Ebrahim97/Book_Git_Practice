@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-this is page 4 in chapter 1
-
-yo yo
-=======
-this is page 4
-
-thisd is chapter 1
->>>>>>> origin/master
